@@ -2,6 +2,7 @@
 Repositorio con matrices, mapas y elementos graficos referidos dentro del TFM, con los cuales replicar la metodología
 
 ABSTRACT
+
 Las ciudades intermedias latinoamericanas hoy día enfrentan problemáticas relacionadas
 a su expansión territorial y bajo control institucional. La fragmentación urbana, la expansión
 dispersa, la informalidad, la desigualdad, entre muchos otros, surgen de territorios
